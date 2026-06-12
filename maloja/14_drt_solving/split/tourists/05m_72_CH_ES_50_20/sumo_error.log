@@ -1,0 +1,2 @@
+Warning: TraCI and Triggers cannot use routing algorithm 'CH'. using 'astar' instead.
+Warning: Vehicle 'taxi65' ignores triggered stop on lane '519913261#1_0' due to capacity constraints.

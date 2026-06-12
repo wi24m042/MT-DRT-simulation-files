@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/datamode_file.xsd">
+    <interval id="taz_rel_maloja_leaving" begin="28800.00" end="50400.00">
+        <tazRelation from="taz_Bregaglia" to="taz_Bregaglia" count="23"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Sils_Engadin" count="10"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Silvaplana" count="6"/>
+        <tazRelation from="taz_St_Moritz" to="taz_St_Moritz" count="110"/>
+
+        <tazRelation from="taz_Bregaglia" to="taz_Sils_Engadin" count="40"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Silvaplana" count="33"/>
+        <tazRelation from="taz_Bregaglia" to="taz_St_Moritz" count="30"/>
+        <tazRelation from="taz_Bregaglia" to="taz_St_Moritz_Sink" count="55"/>
+
+        <tazRelation from="taz_Sils_Engadin" to="taz_Bregaglia" count="7"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Silvaplana" count="7"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_St_Moritz" count="7"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_St_Moritz_Sink" count="7"/>
+        
+        <tazRelation from="taz_Silvaplana" to="taz_Bregaglia" count="15"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Sils_Engadin" count="15"/>
+        <tazRelation from="taz_Silvaplana" to="taz_St_Moritz" count="15"/>
+        <tazRelation from="taz_Silvaplana" to="taz_St_Moritz_Sink" count="15"/>
+        
+        <tazRelation from="taz_St_Moritz" to="taz_Bregaglia" count="55"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Sils_Engadin" count="55"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Silvaplana" count="55"/>
+        <tazRelation from="taz_St_Moritz" to="taz_St_Moritz_Sink" count="110"/>
+    </interval>
+    
+    <interval id="taz_rel_maloja_returning" begin="39600.00" end="64800.00">
+        <tazRelation from="taz_Bregaglia" to="taz_Bregaglia" count="38"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Sils_Engadin" count="8"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Silvaplana" count="6"/>
+        <tazRelation from="taz_St_Moritz" to="taz_St_Moritz" count="110"/>
+
+        <tazRelation from="taz_Sils_Engadin" to="taz_Bregaglia" count="26"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Bregaglia" count="23"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Bregaglia" count="23"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_Bregaglia" count="23"/>
+
+        <tazRelation from="taz_Bregaglia" to="taz_Sils_Engadin" count="7"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Sils_Engadin" count="7"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Sils_Engadin" count="7"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_Sils_Engadin" count="7"/>
+        
+        <tazRelation from="taz_Bregaglia" to="taz_Silvaplana" count="15"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Silvaplana" count="18"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Silvaplana" count="20"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_Silvaplana" count="15"/>
+        
+        <tazRelation from="taz_Bregaglia" to="taz_St_Moritz" count="55"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_St_Moritz" count="55"/>
+        <tazRelation from="taz_Silvaplana" to="taz_St_Moritz" count="70"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_St_Moritz" count="110"/>
+    </interval>
+</data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<od2tripsConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/od2tripsConfiguration.xsd">
+
+    <input>
+        <taz-files value="D:\Dokumente\sumo\maloja\01_schools\taz_maloja_school_areas_filtered.add.xml,D:\Dokumente\sumo\maloja\01_schools\taz_maloja_schools.add.xml"/>
+        <tazrelation-files value="D:\Dokumente\sumo\maloja\01_schools\taz_relations_schools.add.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\Dokumente\sumo\maloja\01_schools\persontrips_maloja_school.xml"/>
+        <persontrips value="true"/>
+        <persontrips.modes value="public"/>
+    </output>
+
+</od2tripsConfiguration>

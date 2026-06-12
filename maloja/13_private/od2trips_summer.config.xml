@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<od2tripsConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/od2tripsConfiguration.xsd">
+
+    <input>
+        <taz-files value="D:\Dokumente\sumo\maloja\taz_maloja_simple.add.xml,D:\Dokumente\sumo\maloja\08_summer\taz_summer.add.xml,D:\Dokumente\sumo\maloja\04_shopping\taz_shopping.add.xml"/>
+        <tazrelation-files value="D:\Dokumente\sumo\maloja\13_private\taz_relations_maloja_private_summer.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\Dokumente\sumo\maloja\13_private\persontrips_maloja_private_summer.xml"/>
+        <persontrips value="true"/>
+        <persontrips.modes value="public"/>
+    </output>
+
+</od2tripsConfiguration>

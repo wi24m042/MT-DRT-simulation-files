@@ -1,0 +1,8 @@
+<configuration>
+    <gtfs value="D:\Dokumente\sumo\maloja\03_bus\01_February\GTFS_FP2024_2024-02-14_04-15.zip"/>
+    <date value="20240214"/>
+    <modes value="bus"/>
+    <network value="D:\Dokumente\sumo\maloja\osm_modded.net.xml"/>
+    <stops value="D:\Dokumente\sumo\maloja\03_bus\osm_stops.add.xml"/>
+    <repair value="True"/>
+</configuration>

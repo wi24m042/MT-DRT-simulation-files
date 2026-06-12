@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<duarouterConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\Dokumente\sumo\maloja\simple.net.xml"/>
+        <additional-files value="D:\Dokumente\sumo\maloja\01_schools\taz_maloja_school_areas_filtered.add.xml,D:\Dokumente\sumo\maloja\01_schools\taz_maloja_schools.add.xml,D:\Dokumente\sumo\maloja\03_bus\virtualstop.add.xml,D:\Dokumente\sumo\maloja\03_bus\02_August\vtypes.xml,D:\Dokumente\sumo\maloja\03_bus\02_August\gtfs_pt_stops.add.xml"/>
+        <route-files value="D:\Dokumente\sumo\maloja\01_schools\persontrips_maloja_school_modded_with_parents_bus_taxi.xml,D:\Dokumente\sumo\maloja\03_bus\02_August\gtfs_pt_vehicles.add.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\Dokumente\sumo\maloja\01_schools\persontrips_maloja_school_resolved_summer_bus_taxi_modded_with_parents_w15.rou.xml"/>
+    </output>
+
+    <processing>
+        <persontrip.transfer.taxi-walk value="ptStops"/>
+        <persontrip.transfer.walk-taxi value="ptStops"/>
+        <persontrip.taxi.waiting-time value="900"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+    </report>
+
+</duarouterConfiguration>

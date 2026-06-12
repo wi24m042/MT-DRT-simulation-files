@@ -1,0 +1,1 @@
+python "C:\Program Files (x86)\Eclipse\Sumo\tools\drt\drtOnline.py" -c drt.sumocfg --darp-solver exhaustive_search --max-processing 50 --routing-algorithm CH --end-time 774000 --max-wait 900

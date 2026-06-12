@@ -1,0 +1,211 @@
+<routes>
+    <vType id="taxi" vClass="taxi" personCapacity="4" color="magenta">
+        <param key="has.taxi.device" value="true"/>
+        <param key="device.taxi.stands-rerouter" value="rr0"/>
+        <param key="device.taxi.end" value="86400"/>
+    </vType>
+    <trip id="taxi0" depart="20520.00" type="taxi" >
+        <stop lane="531892740#1_0" triggered="person"/>
+    </trip>
+    <trip id="taxi1" depart="20520.00" type="taxi" >
+        <stop lane="-210208895_0" triggered="person"/>
+    </trip>
+    <trip id="taxi2" depart="20520.00" type="taxi" >
+        <stop lane="-543256264#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi3" depart="20520.00" type="taxi" >
+        <stop lane="-1374129938_0" triggered="person"/>
+    </trip>
+    <trip id="taxi4" depart="20520.00" type="taxi" >
+        <stop lane="-1083273106_0" triggered="person"/>
+    </trip>
+    <trip id="taxi5" depart="20520.00" type="taxi" >
+        <stop lane="25418591#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi6" depart="20520.00" type="taxi" >
+        <stop lane="-1068941219#6_0" triggered="person"/>
+    </trip>
+    <trip id="taxi7" depart="20520.00" type="taxi" >
+        <stop lane="1426892794#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi8" depart="20520.00" type="taxi" >
+        <stop lane="256959704#2_0" triggered="person"/>
+    </trip>
+    <trip id="taxi9" depart="20520.00" type="taxi" >
+        <stop lane="531892740#1_0" triggered="person"/>
+    </trip>
+    <trip id="taxi10" depart="20520.00" type="taxi" >
+        <stop lane="-210208895_0" triggered="person"/>
+    </trip>
+    <trip id="taxi11" depart="20520.00" type="taxi" >
+        <stop lane="-543256264#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi12" depart="20520.00" type="taxi" >
+        <stop lane="-1374129938_0" triggered="person"/>
+    </trip>
+    <trip id="taxi13" depart="20520.00" type="taxi" >
+        <stop lane="-1083273106_0" triggered="person"/>
+    </trip>
+    <trip id="taxi14" depart="20520.00" type="taxi" >
+        <stop lane="25418591#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi15" depart="20520.00" type="taxi" >
+        <stop lane="-1068941219#6_0" triggered="person"/>
+    </trip>
+    <trip id="taxi16" depart="20520.00" type="taxi" >
+        <stop lane="1426892794#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi17" depart="20520.00" type="taxi" >
+        <stop lane="256959704#2_0" triggered="person"/>
+    </trip>
+    <trip id="taxi18" depart="20520.00" type="taxi" >
+        <stop lane="531892740#1_0" triggered="person"/>
+    </trip>
+    <trip id="taxi19" depart="20520.00" type="taxi" >
+        <stop lane="-210208895_0" triggered="person"/>
+    </trip>
+    <trip id="taxi20" depart="20520.00" type="taxi" >
+        <stop lane="-543256264#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi21" depart="20520.00" type="taxi" >
+        <stop lane="-1374129938_0" triggered="person"/>
+    </trip>
+    <trip id="taxi22" depart="20520.00" type="taxi" >
+        <stop lane="-1083273106_0" triggered="person"/>
+    </trip>
+    <trip id="taxi23" depart="20520.00" type="taxi" >
+        <stop lane="25418591#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi24" depart="20520.00" type="taxi" >
+        <stop lane="-1068941219#6_0" triggered="person"/>
+    </trip>
+    <trip id="taxi25" depart="20520.00" type="taxi" >
+        <stop lane="1426892794#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi26" depart="20520.00" type="taxi" >
+        <stop lane="256959704#2_0" triggered="person"/>
+    </trip>
+    <trip id="taxi27" depart="20520.00" type="taxi" >
+        <stop lane="531892740#1_0" triggered="person"/>
+    </trip>
+    <trip id="taxi28" depart="20520.00" type="taxi" >
+        <stop lane="-210208895_0" triggered="person"/>
+    </trip>
+    <trip id="taxi29" depart="20520.00" type="taxi" >
+        <stop lane="-543256264#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi30" depart="20520.00" type="taxi" >
+        <stop lane="-1374129938_0" triggered="person"/>
+    </trip>
+    <trip id="taxi31" depart="20520.00" type="taxi" >
+        <stop lane="-1083273106_0" triggered="person"/>
+    </trip>
+    <trip id="taxi32" depart="20520.00" type="taxi" >
+        <stop lane="25418591#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi33" depart="20520.00" type="taxi" >
+        <stop lane="-1068941219#6_0" triggered="person"/>
+    </trip>
+    <trip id="taxi34" depart="20520.00" type="taxi" >
+        <stop lane="1426892794#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi35" depart="20520.00" type="taxi" >
+        <stop lane="256959704#2_0" triggered="person"/>
+    </trip>
+    <trip id="taxi36" depart="20520.00" type="taxi" >
+        <stop lane="531892740#1_0" triggered="person"/>
+    </trip>
+    <trip id="taxi37" depart="20520.00" type="taxi" >
+        <stop lane="-210208895_0" triggered="person"/>
+    </trip>
+    <trip id="taxi38" depart="20520.00" type="taxi" >
+        <stop lane="-543256264#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi39" depart="20520.00" type="taxi" >
+        <stop lane="-1374129938_0" triggered="person"/>
+    </trip>
+    <trip id="taxi40" depart="20520.00" type="taxi" >
+        <stop lane="-1083273106_0" triggered="person"/>
+    </trip>
+    <trip id="taxi41" depart="20520.00" type="taxi" >
+        <stop lane="25418591#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi42" depart="20520.00" type="taxi" >
+        <stop lane="-1068941219#6_0" triggered="person"/>
+    </trip>
+    <trip id="taxi43" depart="20520.00" type="taxi" >
+        <stop lane="1426892794#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi44" depart="20520.00" type="taxi" >
+        <stop lane="256959704#2_0" triggered="person"/>
+    </trip>
+    <trip id="taxi45" depart="20520.00" type="taxi" >
+        <stop lane="531892740#1_0" triggered="person"/>
+    </trip>
+    <trip id="taxi46" depart="20520.00" type="taxi" >
+        <stop lane="-210208895_0" triggered="person"/>
+    </trip>
+    <trip id="taxi47" depart="20520.00" type="taxi" >
+        <stop lane="-543256264#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi48" depart="20520.00" type="taxi" >
+        <stop lane="-1374129938_0" triggered="person"/>
+    </trip>
+    <trip id="taxi49" depart="20520.00" type="taxi" >
+        <stop lane="-1083273106_0" triggered="person"/>
+    </trip>
+    <trip id="taxi50" depart="20520.00" type="taxi" >
+        <stop lane="25418591#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi51" depart="20520.00" type="taxi" >
+        <stop lane="-1068941219#6_0" triggered="person"/>
+    </trip>
+    <trip id="taxi52" depart="20520.00" type="taxi" >
+        <stop lane="1426892794#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi53" depart="20520.00" type="taxi" >
+        <stop lane="256959704#2_0" triggered="person"/>
+    </trip>
+    <trip id="taxi54" depart="20520.00" type="taxi" >
+        <stop lane="531892740#1_0" triggered="person"/>
+    </trip>
+    <trip id="taxi55" depart="20520.00" type="taxi" >
+        <stop lane="-210208895_0" triggered="person"/>
+    </trip>
+    <trip id="taxi56" depart="20520.00" type="taxi" >
+        <stop lane="-543256264#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi57" depart="20520.00" type="taxi" >
+        <stop lane="-1374129938_0" triggered="person"/>
+    </trip>
+    <trip id="taxi58" depart="20520.00" type="taxi" >
+        <stop lane="-1083273106_0" triggered="person"/>
+    </trip>
+    <trip id="taxi59" depart="20520.00" type="taxi" >
+        <stop lane="25418591#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi60" depart="20520.00" type="taxi" >
+        <stop lane="-1068941219#6_0" triggered="person"/>
+    </trip>
+    <trip id="taxi61" depart="20520.00" type="taxi" >
+        <stop lane="1426892794#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi62" depart="20520.00" type="taxi" >
+        <stop lane="256959704#2_0" triggered="person"/>
+    </trip>
+    <trip id="taxi63" depart="20520.00" type="taxi" >
+        <stop lane="531892740#1_0" triggered="person"/>
+    </trip>
+    <trip id="taxi64" depart="20520.00" type="taxi" >
+        <stop lane="-210208895_0" triggered="person"/>
+    </trip>
+    <trip id="taxi65" depart="20520.00" type="taxi" >
+        <stop lane="-543256264#0_0" triggered="person"/>
+    </trip>
+    <trip id="taxi66" depart="20520.00" type="taxi" >
+        <stop lane="-1374129938_0" triggered="person"/>
+    </trip>
+    <trip id="taxi67" depart="20520.00" type="taxi" >
+        <stop lane="-1083273106_0" triggered="person"/>
+    </trip>
+</routes>

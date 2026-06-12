@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/datamode_file.xsd">
+    <interval id="taz_rel_maloja_hotel_depart" begin="36000.00" end="43200.00">
+        <tazRelation from="taz_Bregaglia" to="taz_St_Moritz_Sink" count="12"/>
+        <tazRelation from="taz_Silvaplana" to="taz_St_Moritz_Sink" count="9"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_St_Moritz_Sink" count="20"/>
+        <tazRelation from="taz_St_Moritz" to="taz_St_Moritz_Sink" count="200"/>
+    </interval>
+
+    <interval id="taz_rel_maloja_hotel_arrival" begin="43200.00" end="54000.00">
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_Bregaglia" count="22"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_Silvaplana" count="20"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_Sils_Engadin" count="30"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_St_Moritz" count="200"/>
+    </interval>
+    
+    <interval id="taz_rel_maloja_to_shopping" begin="50400.00" end="64800.00">
+        <tazRelation from="taz_Bregaglia" to="taz_shopping_bregaglia_vicosoprano" count="18"/>
+        <tazRelation from="taz_Silvaplana" to="taz_shopping_silvaplana" count="28"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_shopping_sils_engadin" count="155"/>
+        <tazRelation from="taz_St_Moritz" to="taz_shopping_st_moritz_west" count="200"/>
+    </interval>
+
+    <interval id="taz_rel_maloja_from_shopping" begin="54000.00" end="66600.00">
+        <tazRelation from="taz_shopping_bregaglia_vicosoprano" to="taz_Bregaglia" count="18"/>
+        <tazRelation from="taz_shopping_silvaplana" to="taz_Silvaplana" count="30"/>
+        <tazRelation from="taz_shopping_sils_engadin" to="taz_Sils_Engadin" count="280"/>
+        <tazRelation from="taz_shopping_st_moritz_west" to="taz_St_Moritz" count="200"/>
+    </interval>
+
+    <interval id="taz_rel_maloja_to_activity" begin="28800.00" end="54000.00">
+        <tazRelation from="taz_Bregaglia" to="taz_Cable_Car_Albigna" count="18"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Bregaglia_Summer" count="15"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Sils_Engadin_Summer" count="11"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Silvaplana_Summer" count="11"/>
+        <tazRelation from="taz_Bregaglia" to="taz_St_Moritz_Summer" count="11"/>
+        <tazRelation from="taz_Bregaglia" to="taz_ski_corviglia_piz_nair_st_moritz" count="11"/>
+        <tazRelation from="taz_Bregaglia" to="taz_ski_corvatsch_sils_im_engadin" count="11"/>
+
+        <tazRelation from="taz_Bregaglia" to="taz_St_Moritz" count="16"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Bregaglia" count="16"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Silvaplana" count="16"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Sils_Engadin" count="20"/>
+        <tazRelation from="taz_Bregaglia" to="taz_St_Moritz_Sink" count="16"/>
+
+        <tazRelation from="taz_Silvaplana" to="taz_Cable_Car_Albigna" count="11"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Bregaglia_Summer" count="11"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Sils_Engadin_Summer" count="11"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Silvaplana_Summer" count="25"/>
+        <tazRelation from="taz_Silvaplana" to="taz_St_Moritz_Summer" count="18"/>
+        <tazRelation from="taz_Silvaplana" to="taz_ski_corviglia_piz_nair_st_moritz" count="18"/>
+        <tazRelation from="taz_Silvaplana" to="taz_ski_corvatsch_silvaplana" count="18"/>
+        
+        <tazRelation from="taz_Silvaplana" to="taz_St_Moritz" count="16"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Bregaglia" count="16"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Silvaplana" count="30"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Sils_Engadin" count="16"/>
+        <tazRelation from="taz_Silvaplana" to="taz_St_Moritz_Sink" count="16"/>
+
+        <tazRelation from="taz_Sils_Engadin" to="taz_Cable_Car_Albigna" count="33"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Bregaglia_Summer" count="33"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Sils_Engadin_Summer" count="135"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Silvaplana_Summer" count="50"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_St_Moritz_Summer" count="33"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_ski_corviglia_piz_nair_st_moritz" count="33"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_ski_corvatsch_sils_im_engadin" count="210"/>
+
+        <tazRelation from="taz_Sils_Engadin" to="taz_St_Moritz" count="45"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Bregaglia" count="45"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Silvaplana" count="45"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Sils_Engadin" count="125"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_St_Moritz_Sink" count="45"/>
+
+        <tazRelation from="taz_St_Moritz" to="taz_Cable_Car_Albigna" count="92"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Bregaglia_Summer" count="92"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Sils_Engadin_Summer" count="92"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Silvaplana_Summer" count="140"/>
+        <tazRelation from="taz_St_Moritz" to="taz_St_Moritz_Summer" count="200"/>
+        <tazRelation from="taz_St_Moritz" to="taz_ski_corviglia_piz_nair_st_moritz" count="250"/>
+        <tazRelation from="taz_St_Moritz" to="taz_ski_corvatsch_silvaplana" count="100"/>
+        
+        <tazRelation from="taz_St_Moritz" to="taz_St_Moritz" count="128"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Bregaglia" count="128"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Silvaplana" count="128"/>
+        <tazRelation from="taz_St_Moritz" to="taz_Sils_Engadin" count="128"/>
+        <tazRelation from="taz_St_Moritz" to="taz_St_Moritz_Sink" count="300"/>
+    </interval>
+    <interval id="taz_rel_maloja_from_activity" begin="39600.00" end="72000.00">
+        <tazRelation from="taz_Cable_Car_Albigna" to="taz_Bregaglia" count="20"/>
+        <tazRelation from="taz_Bregaglia_Summer" to="taz_Bregaglia" count="20"/>
+        <tazRelation from="taz_Sils_Engadin_Summer" to="taz_Bregaglia" count="11"/>
+        <tazRelation from="taz_Silvaplana_Summer" to="taz_Bregaglia" count="11"/>
+        <tazRelation from="taz_St_Moritz_Summer" to="taz_Bregaglia" count="11"/>
+        <tazRelation from="taz_ski_corviglia_piz_nair_st_moritz" to="taz_Bregaglia" count="11"/>
+        <tazRelation from="taz_ski_corvatsch_sils_im_engadin" to="taz_Bregaglia" count="11"/>
+        
+        <tazRelation from="taz_St_Moritz" to="taz_Bregaglia" count="16"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Bregaglia" count="35"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Bregaglia" count="16"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Bregaglia" count="20"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_Bregaglia" count="16"/>
+
+        <tazRelation from="taz_Cable_Car_Albigna" to="taz_Silvaplana" count="11"/>
+        <tazRelation from="taz_Bregaglia_Summer" to="taz_Silvaplana" count="11"/>
+        <tazRelation from="taz_Sils_Engadin_Summer" to="taz_Silvaplana" count="25"/>
+        <tazRelation from="taz_Silvaplana_Summer" to="taz_Silvaplana" count="35"/>
+        <tazRelation from="taz_St_Moritz_Summer" to="taz_Silvaplana" count="15"/>
+        <tazRelation from="taz_ski_corviglia_piz_nair_st_moritz" to="taz_Silvaplana" count="15"/>
+        <tazRelation from="taz_ski_corvatsch_silvaplana" to="taz_Silvaplana" count="18"/>
+
+        <tazRelation from="taz_St_Moritz" to="taz_Silvaplana" count="30"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Silvaplana" count="16"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Silvaplana" count="50"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Silvaplana" count="25"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_Silvaplana" count="16"/>
+
+        <tazRelation from="taz_Cable_Car_Albigna" to="taz_Sils_Engadin" count="33"/>
+        <tazRelation from="taz_Bregaglia_Summer" to="taz_Sils_Engadin" count="60"/>
+        <tazRelation from="taz_Sils_Engadin_Summer" to="taz_Sils_Engadin" count="160"/>
+        <tazRelation from="taz_Silvaplana_Summer" to="taz_Sils_Engadin" count="45"/>
+        <tazRelation from="taz_St_Moritz_Summer" to="taz_Sils_Engadin" count="33"/>
+        <tazRelation from="taz_ski_corviglia_piz_nair_st_moritz" to="taz_Sils_Engadin" count="45"/>
+        <tazRelation from="taz_ski_corvatsch_sils_im_engadin" to="taz_Sils_Engadin" count="300"/>
+        
+        <tazRelation from="taz_St_Moritz" to="taz_Sils_Engadin" count="45"/>
+        <tazRelation from="taz_Bregaglia" to="taz_Sils_Engadin" count="55"/>
+        <tazRelation from="taz_Silvaplana" to="taz_Sils_Engadin" count="55"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_Sils_Engadin" count="500"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_Sils_Engadin" count="45"/>
+
+        <tazRelation from="taz_Cable_Car_Albigna" to="taz_St_Moritz" count="92"/>
+        <tazRelation from="taz_Bregaglia_Summer" to="taz_St_Moritz" count="92"/>
+        <tazRelation from="taz_Sils_Engadin_Summer" to="taz_St_Moritz" count="92"/>
+        <tazRelation from="taz_Silvaplana_Summer" to="taz_St_Moritz" count="130"/>
+        <tazRelation from="taz_St_Moritz_Summer" to="taz_St_Moritz" count="200"/>
+        <tazRelation from="taz_ski_corviglia_piz_nair_st_moritz" to="taz_St_Moritz" count="225"/>
+        <tazRelation from="taz_ski_corvatsch_silvaplana" to="taz_St_Moritz" count="100"/>
+
+        <tazRelation from="taz_St_Moritz" to="taz_St_Moritz" count="400"/>
+        <tazRelation from="taz_Bregaglia" to="taz_St_Moritz" count="128"/>
+        <tazRelation from="taz_Silvaplana" to="taz_St_Moritz" count="150"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_St_Moritz" count="128"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_St_Moritz" count="300"/>
+    </interval>
+</data>

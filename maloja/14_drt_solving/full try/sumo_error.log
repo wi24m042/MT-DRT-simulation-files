@@ -1,0 +1,64 @@
+Warning: TraCI and Triggers cannot use routing algorithm 'CH'. using 'astar' instead.
+Warning: All customers left vehicle 'taxi358' at time=25020.00 but there are 1 remaining stops
+Warning: All customers left vehicle 'taxi227' at time=25248.00 but there are 1 remaining stops
+Warning: All customers left vehicle 'taxi239' at time=25484.00 but there are 1 remaining stops
+Warning: Vehicle 'taxi194' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=26298.00.
+Warning: All customers left vehicle 'taxi141' at time=27704.00 but there are 1 remaining stops
+Warning: Vehicle 'taxi55' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30256.00.
+Warning: All customers left vehicle 'taxi277' at time=32726.00 but there are 1 remaining stops
+Warning: Vehicle 'taxi262' ignores triggered stop on lane '1068735330#7_0' due to capacity constraints.
+Warning: Vehicle 'taxi332' ignores triggered stop on lane '519913263#1_0' due to capacity constraints.
+Warning: Vehicle 'taxi29' ignores triggered stop on lane '519913265#1_0' due to capacity constraints.
+Warning: Vehicle 'taxi29' ignores triggered stop on lane '519913265#1_0' due to capacity constraints.
+Warning: Vehicle 'taxi29' ignores triggered stop on lane '519913265#1_0' due to capacity constraints.
+Warning: Vehicle 'taxi29' ignores triggered stop on lane '519913265#1_0' due to capacity constraints.
+Warning: All customers left vehicle 'taxi289' at time=45751.00 but there are 1 remaining stops
+Warning: Vehicle 'taxi189' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=47339.00.
+Warning: Vehicle 'taxi167' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=47351.00.
+Warning: Vehicle 'taxi115' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=48429.00.
+Warning: Vehicle 'taxi163' ignores triggered stop on lane '-268146940#6_0' due to capacity constraints.
+Warning: All customers left vehicle 'taxi64' at time=49053.00 but there are 1 remaining stops
+Warning: Vehicle 'taxi206' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=49157.00.
+Warning: Person 'p810' is jammed on edge '25412019', time=49758.00.
+Warning: Vehicle 'taxi293' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=50971.00.
+Warning: All customers left vehicle 'taxi163' at time=51399.00 but there are 1 remaining stops
+Warning: Person 's805' is jammed on edge '25412019', time=54840.00.
+Warning: Person 'ga270' is jammed on edge '25412019', time=54851.00.
+Warning: Person 'gb270' is jammed on edge '25412019', time=54879.00.
+Warning: Person 'w1437' is jammed on edge '25412019', time=55473.00.
+Warning: Person 'gb269' is jammed on edge '25412019', time=56501.00.
+Warning: Person 's819' is jammed on edge '25412019', time=56544.00.
+Warning: Person 'ga269' is jammed on edge '25412019', time=56649.00.
+Warning: Person 'd503' is jammed on edge '25412019', time=56809.00.
+Warning: Person 's806' is jammed on edge '25412019', time=57210.00.
+Warning: All customers left vehicle 'taxi212' at time=57615.00 but there are 1 remaining stops
+Warning: Person 'w1435' is jammed on edge '25412019', time=57852.00.
+Warning: Person 'w1316' is jammed on edge '25412019', time=58182.00.
+Warning: Person 'w1312' is jammed on edge '25412019', time=59164.00.
+Warning: Person 'gb273' is jammed on edge '25412019', time=59508.00.
+Warning: Person 'ga273' is jammed on edge '25412019', time=59526.00.
+Warning: Person 'w1600' is jammed on edge '25412019', time=60176.00.
+Warning: Person 'w1369' is jammed on edge '25412019', time=60744.00.
+Warning: Vehicle 'taxi342' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=61116.00.
+Warning: Person 'w1469' is jammed on edge '25412019', time=61190.00.
+Warning: Person 'w1374' is jammed on edge '25412019', time=61493.00.
+Warning: Person 'w1403' is jammed on edge '25412019', time=62223.00.
+Warning: Person 's807' is jammed on edge '25412019', time=63712.00.
+Warning: Person 's811' is jammed on edge '25412019', time=63989.00.
+Warning: Person 's801' is jammed on edge '25412019', time=64153.00.
+Warning: Person 'w1642' is jammed on edge '25412019', time=64664.00.
+Warning: Person 'w1320' is jammed on edge '25412019', time=66471.00.
+Warning: Person 'w1582' is jammed on edge '25412019', time=66778.00.
+Warning: Person 'w1711' is jammed on edge '25412019', time=67742.00.
+Warning: Person 'w1583' is jammed on edge '25412019', time=68053.00.
+Warning: Person 'w1633' is jammed on edge '25412019', time=70124.00.
+Error: Answered with error to command 0xa4: Vehicle 'taxi326' is not known.
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).
+Warning: All customers left vehicle 'taxi19' at time=70750.00 but there are 2 remaining stops
+Warning: All customers left vehicle 'taxi54' at time=70750.00 but there are 3 remaining stops
+Warning: All customers left vehicle 'taxi284' at time=70750.00 but there are 2 remaining stops
+Warning: All customers left vehicle 'taxi281' at time=70750.00 but there are 1 remaining stops
+Warning: All customers left vehicle 'taxi289' at time=70750.00 but there are 1 remaining stops
+Warning: All customers left vehicle 'taxi212' at time=70750.00 but there are 2 remaining stops
+Warning: All customers left vehicle 'taxi393' at time=70750.00 but there are 2 remaining stops

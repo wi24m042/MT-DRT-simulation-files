@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<od2tripsConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/od2tripsConfiguration.xsd">
+
+    <input>
+        <taz-files value="D:\Dokumente\sumo\maloja\taz_maloja_simple.add.xml,D:\Dokumente\sumo\maloja\07_offseason\taz_offseason.add.xml"/>
+        <tazrelation-files value="D:\Dokumente\sumo\maloja\09_daytrips\taz_relations_maloja_daytrips_offseason.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\Dokumente\sumo\maloja\09_daytrips\persontrips_maloja_daytrips_offseason.xml"/>
+        <persontrips value="true"/>
+        <persontrips.modes value="public"/>
+    </output>
+
+</od2tripsConfiguration>

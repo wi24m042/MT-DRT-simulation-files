@@ -1,0 +1,6 @@
+Warning: TraCI and Triggers cannot use routing algorithm 'CH'. using 'astar' instead.
+Warning: Vehicle 'taxi81' ignores triggered stop on lane '519913261#1_0' due to capacity constraints.
+Warning: Vehicle 'taxi89' ignores triggered stop on lane '519913261#1_0' due to capacity constraints.
+Warning: Vehicle 'taxi89' ignores triggered stop on lane '519913261#1_0' due to capacity constraints.
+Warning: Vehicle 'taxi89' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=48114.00.
+Warning: Vehicle 'taxi54' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=48631.00.

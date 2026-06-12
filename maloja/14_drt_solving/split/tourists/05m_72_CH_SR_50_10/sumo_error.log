@@ -1,0 +1,9 @@
+Warning: TraCI and Triggers cannot use routing algorithm 'CH'. using 'astar' instead.
+Warning: All customers left vehicle 'taxi65' at time=30854.00 but there are 1 remaining stops
+Warning: Vehicle 'taxi65' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=40439.00.
+Warning: Vehicle 'taxi38' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=41256.00.
+Warning: Vehicle 'taxi42' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=48231.00.
+Warning: Vehicle 'taxi52' ignores triggered stop on lane '209755663#3_0' due to capacity constraints.
+Warning: Vehicle 'taxi35' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=48837.00.
+Warning: All customers left vehicle 'taxi20' at time=49088.00 but there are 1 remaining stops
+Warning: Vehicle 'taxi60' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=55445.00.

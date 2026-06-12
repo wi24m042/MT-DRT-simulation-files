@@ -1,0 +1,4017 @@
+***Starting server on port 62460 ***
+Loading net-file from 'D:\Dokumente\sumo\maloja\simple.net.xml' ... done (1287ms).
+Loading additional-files from 'D:\Dokumente\sumo\maloja\03_bus\virtualstop.add.xml' ... done (9ms).
+Loading additional-files from 'D:\Dokumente\sumo\maloja\03_bus\03_November\gtfs_pt_stops.add.xml' ... done (13ms).
+Loading additional-files from 'drt_fleet.xml' ... done (9ms).
+Loading done.
+Simulation version 1.12.0 started with time: 20520.00
+Building Contraction Hierarchy for vClass='taxi' and time=20520.00 (37992 edges)
+ ... 
+Created 27308 shortcuts.
+Recomputed priority 51994 times.
+done (142ms).
+done.
+Warning: TraCI and Triggers cannot use routing algorithm 'CH'. using 'astar' instead.
+Building Contraction Hierarchy for vClass='taxi' and time=28960.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=28990.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29020.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29140.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29230.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29290.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (89ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29320.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (88ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29350.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29380.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29770.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (90ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29800.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=29920.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30070.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (91ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30100.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (91ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30190.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30220.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30310.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30370.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30670.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (90ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30850.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30910.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=30970.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=31090.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=31330.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=31360.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=31450.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=31480.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=31510.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=31870.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32110.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32200.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32230.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32260.00 (37992 edges)
+ ... 
+Created 27355 shortcuts.
+Recomputed priority 51940 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32290.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (89ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32380.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32410.00 (37992 edges)
+ ... 
+Created 27308 shortcuts.
+Recomputed priority 51994 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32500.00 (37992 edges)
+ ... 
+Created 27308 shortcuts.
+Recomputed priority 51994 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32530.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (89ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32590.00 (37992 edges)
+ ... 
+Created 27308 shortcuts.
+Recomputed priority 51994 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32620.00 (37992 edges)
+ ... 
+Created 27352 shortcuts.
+Recomputed priority 51955 times.
+done (91ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32650.00 (37992 edges)
+ ... 
+Created 27352 shortcuts.
+Recomputed priority 51955 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32680.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32710.00 (37992 edges)
+ ... 
+Created 27352 shortcuts.
+Recomputed priority 51955 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32860.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32890.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=32950.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (125ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33010.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33040.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33070.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (126ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33100.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33190.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33250.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51964 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33280.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51964 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33340.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51964 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33400.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33430.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33460.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33580.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (91ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33670.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33760.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33790.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33820.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33850.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33880.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=33910.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34000.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34030.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34060.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34090.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34270.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34300.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34330.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (135ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34360.00 (37992 edges)
+ ... 
+Created 27244 shortcuts.
+Recomputed priority 51978 times.
+done (133ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34390.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34420.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (119ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34450.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (122ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34510.00 (37992 edges)
+ ... 
+Created 27355 shortcuts.
+Recomputed priority 51940 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34600.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=34660.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (118ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35110.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35140.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35320.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (118ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35380.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35410.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (115ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35440.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (117ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35470.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (124ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35500.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35530.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (124ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35560.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35590.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35710.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35770.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35890.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (131ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35920.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35950.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (130ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=35980.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (129ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36040.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (119ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36070.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51964 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36100.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (144ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36130.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36190.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36280.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36340.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51964 times.
+done (123ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36400.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36460.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36490.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (132ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36520.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (118ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36550.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36580.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36610.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36640.00 (37992 edges)
+ ... 
+Created 27355 shortcuts.
+Recomputed priority 51940 times.
+done (114ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36670.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36730.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36760.00 (37992 edges)
+ ... 
+Created 27244 shortcuts.
+Recomputed priority 51978 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36790.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (123ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36850.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (117ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36880.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36940.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=36970.00 (37992 edges)
+ ... 
+Created 27244 shortcuts.
+Recomputed priority 51978 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37030.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51964 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37060.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37150.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37180.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37210.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37240.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37300.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37330.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37390.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37450.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37480.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (118ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37570.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37600.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37630.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37660.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37720.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (122ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37750.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37810.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (131ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37840.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (115ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37870.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37900.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37930.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37960.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=37990.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38020.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (118ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38050.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (115ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38080.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (117ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38110.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (114ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38140.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38170.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (125ms).
+done.
+Warning: Vehicle 'taxi86' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=38173.00.
+Building Contraction Hierarchy for vClass='taxi' and time=38200.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38230.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (119ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38290.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (118ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38350.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38410.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38440.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (182ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38470.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (151ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38500.00 (37992 edges)
+ ... 
+Created 27355 shortcuts.
+Recomputed priority 51940 times.
+done (119ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38560.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38590.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38650.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38710.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38740.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38770.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (133ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38800.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38860.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38890.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (120ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38950.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=38980.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39040.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (137ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39100.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39130.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39160.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39220.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39250.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39280.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39310.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39340.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39370.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39400.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39430.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39460.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39490.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39520.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39550.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39580.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39610.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39640.00 (37992 edges)
+ ... 
+Created 27355 shortcuts.
+Recomputed priority 51940 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39670.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39730.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39760.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39790.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39820.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39850.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39880.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39910.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39940.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=39970.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40000.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40030.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40090.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40120.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40150.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (90ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40180.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40210.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40240.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40270.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40300.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40330.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40360.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40390.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40420.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (89ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40450.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (90ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40480.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40510.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40630.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40660.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40750.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40780.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40810.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40840.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40930.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (89ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40960.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=40990.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41020.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41050.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41080.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41110.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41140.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41170.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41200.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41230.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41290.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41320.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41380.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (90ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41410.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41440.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41470.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41500.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41530.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41590.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41620.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41650.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41680.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41710.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41740.00 (37992 edges)
+ ... 
+Created 27352 shortcuts.
+Recomputed priority 51955 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41770.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41800.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (91ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41830.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41860.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41920.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41950.00 (37992 edges)
+ ... 
+Created 27352 shortcuts.
+Recomputed priority 51955 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=41980.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42070.00 (37992 edges)
+ ... 
+Created 27308 shortcuts.
+Recomputed priority 51994 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42100.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42130.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42160.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42220.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42280.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (89ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42310.00 (37992 edges)
+ ... 
+Created 27308 shortcuts.
+Recomputed priority 51994 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42340.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42370.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42400.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42460.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (90ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42490.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42520.00 (37992 edges)
+ ... 
+Created 27308 shortcuts.
+Recomputed priority 51994 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42550.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (129ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42610.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (126ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42640.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42670.00 (37992 edges)
+ ... 
+Created 27352 shortcuts.
+Recomputed priority 51955 times.
+done (125ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42700.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42730.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42760.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (120ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42850.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (118ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42880.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42910.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42940.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=42970.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43060.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43090.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43150.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (115ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43180.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43240.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43300.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43330.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (129ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43360.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43390.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (117ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43420.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43480.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43510.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43540.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43570.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43630.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43690.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43720.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43780.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43810.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43840.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43870.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43900.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43960.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=43990.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44020.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44050.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44080.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44140.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44170.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44200.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44260.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44290.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44320.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44350.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44410.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (90ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44440.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44500.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44560.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44620.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44650.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44680.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44710.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44740.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44770.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44830.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44920.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=44950.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45010.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45040.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45070.00 (37992 edges)
+ ... 
+Created 27447 shortcuts.
+Recomputed priority 51990 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45100.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45130.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45160.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45190.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45250.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45280.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45310.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45340.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45370.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45400.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45430.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45460.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45520.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45550.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45580.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45670.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45700.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45730.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45760.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45790.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45850.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45910.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (115ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45940.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=45970.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46000.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46060.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46090.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46150.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46180.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46210.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46240.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46270.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46300.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46330.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (129ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46360.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (121ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46390.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46420.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46450.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46510.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46570.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46600.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46630.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46660.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (115ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46690.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46720.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46780.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46810.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46840.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46870.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (115ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46900.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46930.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=46960.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47020.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47050.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (89ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47110.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47350.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47380.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47410.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47440.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47470.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (115ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47530.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47560.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47620.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47650.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47680.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47710.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51972 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47740.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47800.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47830.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (115ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47860.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (119ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47890.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47920.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=47980.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48040.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48070.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48130.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48190.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48220.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48250.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48340.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48400.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (123ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48430.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48460.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48490.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48520.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48550.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48580.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48640.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48670.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48700.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48730.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48760.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48790.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48850.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48880.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48910.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=48940.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49030.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49060.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49090.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49120.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49150.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49180.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49210.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49240.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49270.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49300.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (101ms).
+done.
+Warning: Vehicle 'taxi19' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=49303.00.
+Building Contraction Hierarchy for vClass='taxi' and time=49360.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49450.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49480.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49510.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (95ms).
+done.
+Warning: Vehicle 'taxi80' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=49518.00.
+Building Contraction Hierarchy for vClass='taxi' and time=49540.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49570.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49630.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49660.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (124ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49690.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49720.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49750.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49810.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49870.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49900.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49930.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (117ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49960.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=49990.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50050.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50080.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50110.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50170.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50410.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50440.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (114ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50470.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50590.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50650.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50680.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (91ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50710.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50740.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50800.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50860.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50920.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50950.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=50980.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51010.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51040.00 (37992 edges)
+ ... 
+Created 27293 shortcuts.
+Recomputed priority 51950 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51070.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51160.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51190.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51250.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51280.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51310.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51340.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51370.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51430.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51520.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51580.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51640.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51700.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51820.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51850.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51880.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=51970.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52030.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52120.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52300.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52330.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52360.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52390.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52420.00 (37992 edges)
+ ... 
+Created 27364 shortcuts.
+Recomputed priority 51940 times.
+done (91ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52450.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52480.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52510.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52570.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (126ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52630.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52690.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52780.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52810.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52870.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52900.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52930.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52960.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=52990.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53020.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53050.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53080.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53170.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53200.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53260.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53290.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53350.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53440.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53470.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53500.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53530.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53590.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53620.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53710.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53740.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53770.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53860.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53890.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53920.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=53950.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54010.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54220.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54340.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54400.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54490.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54580.00 (37992 edges)
+ ... 
+Created 27414 shortcuts.
+Recomputed priority 51980 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54640.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54700.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54760.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=54790.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (91ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55060.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55180.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55240.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55300.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55510.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55540.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55570.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55600.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (113ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55660.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55690.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55720.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55750.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55780.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (123ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55960.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=55990.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56140.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56260.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56320.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56470.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (89ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56560.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56590.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56620.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56650.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56800.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56860.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=56980.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=57040.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=57340.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=57370.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=57430.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=57580.00 (37992 edges)
+ ... 
+Created 27430 shortcuts.
+Recomputed priority 51990 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=57610.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=57700.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=57850.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=58060.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (108ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=58180.00 (37992 edges)
+ ... 
+Created 27327 shortcuts.
+Recomputed priority 51988 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=58210.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=58240.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=58300.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=58450.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=58600.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=58810.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (116ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=58960.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59020.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59290.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59320.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59350.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59650.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59680.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59710.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59740.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59770.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59890.00 (37992 edges)
+ ... 
+Created 27292 shortcuts.
+Recomputed priority 51981 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=59980.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=60010.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=60130.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=60160.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (101ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=60400.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=60820.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=61000.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (112ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=61030.00 (37992 edges)
+ ... 
+Created 27343 shortcuts.
+Recomputed priority 51966 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=61090.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=61180.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=61390.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=61900.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (145ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=62140.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=62260.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=62380.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=62800.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=62980.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=63130.00 (37992 edges)
+ ... 
+Created 27499 shortcuts.
+Recomputed priority 51955 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=63160.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=63190.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (109ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=63280.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=63430.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (90ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=63700.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=63850.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=63970.00 (37992 edges)
+ ... 
+Created 27366 shortcuts.
+Recomputed priority 51947 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=64150.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=64210.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=64570.00 (37992 edges)
+ ... 
+Created 27363 shortcuts.
+Recomputed priority 51948 times.
+done (106ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=64690.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=64750.00 (37992 edges)
+ ... 
+Created 27411 shortcuts.
+Recomputed priority 51947 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=65110.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=65230.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=65350.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=65740.00 (37992 edges)
+ ... 
+Created 27463 shortcuts.
+Recomputed priority 51976 times.
+done (114ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=65950.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=66460.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (122ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=66550.00 (37992 edges)
+ ... 
+Created 27450 shortcuts.
+Recomputed priority 51971 times.
+done (94ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=66580.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=66670.00 (37992 edges)
+ ... 
+Created 27450 shortcuts.
+Recomputed priority 51971 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=66820.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=66970.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=67150.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=67240.00 (37992 edges)
+ ... 
+Created 27593 shortcuts.
+Recomputed priority 51947 times.
+done (111ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=67300.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=67960.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=68230.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=68410.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=68440.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=68560.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=68950.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (99ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=68980.00 (37992 edges)
+ ... 
+Created 27307 shortcuts.
+Recomputed priority 51994 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=69100.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (92ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=69220.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=69250.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (110ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=69430.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (93ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=69640.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (103ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=69760.00 (37992 edges)
+ ... 
+Created 27591 shortcuts.
+Recomputed priority 51948 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=69970.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (105ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=70150.00 (37992 edges)
+ ... 
+Created 27448 shortcuts.
+Recomputed priority 51940 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=70180.00 (37992 edges)
+ ... 
+Created 27298 shortcuts.
+Recomputed priority 51973 times.
+done (97ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=70570.00 (37992 edges)
+ ... 
+Created 27361 shortcuts.
+Recomputed priority 51995 times.
+done (117ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=70660.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (95ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=70750.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (98ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=70840.00 (37992 edges)
+ ... 
+Created 27449 shortcuts.
+Recomputed priority 51945 times.
+done (102ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=71530.00 (37992 edges)
+ ... 
+Created 27470 shortcuts.
+Recomputed priority 51930 times.
+done (104ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=71680.00 (37992 edges)
+ ... 
+Created 27426 shortcuts.
+Recomputed priority 51937 times.
+done (100ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=71740.00 (37992 edges)
+ ... 
+Created 27268 shortcuts.
+Recomputed priority 51972 times.
+done (96ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=71950.00 (37992 edges)
+ ... 
+Created 27370 shortcuts.
+Recomputed priority 51946 times.
+done (107ms).
+done.
+Building Contraction Hierarchy for vClass='taxi' and time=72040.00 (37992 edges)
+ ... 
+Created 27250 shortcuts.
+Recomputed priority 51995 times.
+done (97ms).
+done.
+Simulation ended at time: 77410.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 1721.46s
+ TraCI-Duration: 1481.03s
+ Real time factor: 33.0475
+ UPS: 3135.859677
+ UPS-Persons: 2040.667805
+Vehicles: 
+ Inserted: 96 (Loaded: 673826)
+ Running: 94
+ Waiting: 0
+Persons: 
+ Inserted: 1492
+ Running: 0
+Statistics (avg):
+ RouteLength: 108990.92
+ Speed: 1.95
+ Duration: 56231.84
+ WaitingTime: 62.75
+ TimeLoss: 748.42
+ DepartDelay: 16.51
+ DepartDelayWaiting: 0.00
+Pedestrian Statistics (avg of 2797 walks):
+ RouteLength: 283.07
+ Duration: 216.06
+ TimeLoss: 13.00
+Ride Statistics (avg of 1365 rides):
+ WaitingTime: 314.90
+ RouteLength: 9341.20
+ Duration: 3303.29
+ Taxi: 1253
+ Aborted: 52
+
+AStarRouter answered 673730 queries and explored 1116.07 edges on average.
+AStarRouter spent 397.00s answering queries (0.59ms on average).
+DijkstraRouter answered 84 queries and explored 54.74 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.05ms on average).
+CHRouter answered 4049 queries and explored 31.27 edges on average.
+CHRouter spent 0.12s answering queries (0.03ms on average).

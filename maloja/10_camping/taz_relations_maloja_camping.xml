@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/datamode_file.xsd">
+    <interval id="taz_rel_maloja_to_shopping" begin="28800.00" end="48600.00">
+        <tazRelation from="taz_camping_summer_maloja" to="taz_shopping_bregaglia_vicosoprano" count="15"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_shopping_bregaglia_vicosoprano" count="25"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_shopping_silvaplana" count="275"/>
+
+    </interval>
+    <interval id="taz_rel_maloja_from_shopping" begin="30600.00" end="50400">
+        <tazRelation from="taz_shopping_bregaglia_vicosoprano" to="taz_camping_summer_maloja" count="10"/>
+        <tazRelation from="taz_shopping_bregaglia_vicosoprano" to="taz_camping_summer_mulina" count="20"/>
+        <tazRelation from="taz_shopping_silvaplana" to="taz_camping_summer_silvaplana" count="185"/>
+    </interval>
+
+    <interval id="taz_rel_maloja_to_shopping" begin="50400.00" end="64800.00">
+        <tazRelation from="taz_camping_summer_maloja" to="taz_shopping_bregaglia_vicosoprano" count="12"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_shopping_bregaglia_vicosoprano" count="200"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_shopping_silvaplana" count="175"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_shopping_st_moritz_west" count="80"/>
+
+    </interval>
+    <interval id="taz_rel_maloja_from_shopping" begin="54000.00" end="66600.00">
+        <tazRelation from="taz_shopping_bregaglia_vicosoprano" to="taz_camping_summer_maloja" count="12"/>
+        <tazRelation from="taz_shopping_bregaglia_vicosoprano" to="taz_camping_summer_mulina" count="150"/>
+        <tazRelation from="taz_shopping_silvaplana" to="taz_camping_summer_silvaplana" count="200"/>
+        <tazRelation from="taz_shopping_st_moritz_west" to="taz_camping_summer_st_moritz" count="80"/>
+    </interval>
+
+    <interval id="taz_rel_maloja_to_activity" begin="28800.00" end="50400.00">
+        <tazRelation from="taz_camping_summer_maloja" to="taz_Cable_Car_Albigna" count="9"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_Bregaglia_Summer" count="17"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_Sils_Engadin_Summer" count="9"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_Silvaplana_Summer" count="9"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_St_Moritz_Summer" count="9"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_ski_corviglia_piz_nair_st_moritz" count="9"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_ski_corvatsch_sils_im_engadin" count="9"/>
+        
+        <tazRelation from="taz_camping_summer_maloja" to="taz_St_Moritz" count="14"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_Bregaglia" count="20"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_Silvaplana" count="17"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_Sils_Engadin" count="17"/>
+        <tazRelation from="taz_camping_summer_maloja" to="taz_St_Moritz_Sink" count="14"/>
+
+        <tazRelation from="taz_camping_summer_mulina" to="taz_Cable_Car_Albigna" count="50"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_Bregaglia_Summer" count="20"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_Sils_Engadin_Summer" count="11"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_Silvaplana_Summer" count="11"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_St_Moritz_Summer" count="11"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_ski_corviglia_piz_nair_st_moritz" count="11"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_ski_corvatsch_sils_im_engadin" count="11"/>
+
+        <tazRelation from="taz_camping_summer_mulina" to="taz_St_Moritz" count="15"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_Bregaglia" count="25"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_Silvaplana" count="15"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_Sils_Engadin" count="15"/>
+        <tazRelation from="taz_camping_summer_mulina" to="taz_St_Moritz_Sink" count="15"/>
+
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_Cable_Car_Albigna" count="27"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_Bregaglia_Summer" count="27"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_Sils_Engadin_Summer" count="40"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_Silvaplana_Summer" count="95"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_St_Moritz_Summer" count="27"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_ski_corviglia_piz_nair_st_moritz" count="27"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_ski_corvatsch_silvaplana" count="27"/>
+        
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_St_Moritz" count="37"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_Bregaglia" count="37"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_Silvaplana" count="100"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_Sils_Engadin" count="60"/>
+        <tazRelation from="taz_camping_summer_silvaplana" to="taz_St_Moritz_Sink" count="37"/>
+
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_Cable_Car_Albigna" count="14"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_Bregaglia_Summer" count="14"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_Sils_Engadin_Summer" count="14"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_Silvaplana_Summer" count="20"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_St_Moritz_Summer" count="28"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_ski_corviglia_piz_nair_st_moritz" count="28"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_ski_corvatsch_silvaplana" count="14"/>
+
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_St_Moritz" count="33"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_Bregaglia" count="19"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_Silvaplana" count="25"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_Sils_Engadin" count="19"/>
+        <tazRelation from="taz_camping_summer_st_moritz" to="taz_St_Moritz_Sink" count="19"/>
+    </interval>
+    <interval id="taz_rel_maloja_from_activity" begin="39600.00" end="64800.00">
+        <tazRelation from="taz_Cable_Car_Albigna" to="taz_camping_summer_maloja" count="9"/>
+        <tazRelation from="taz_Bregaglia_Summer" to="taz_camping_summer_maloja" count="16"/>
+        <tazRelation from="taz_Sils_Engadin_Summer" to="taz_camping_summer_maloja" count="14"/>
+        <tazRelation from="taz_Silvaplana_Summer" to="taz_camping_summer_maloja" count="9"/>
+        <tazRelation from="taz_St_Moritz_Summer" to="taz_camping_summer_maloja" count="9"/>
+        <tazRelation from="taz_ski_corviglia_piz_nair_st_moritz" to="taz_camping_summer_maloja" count="9"/>
+        <tazRelation from="taz_ski_corvatsch_sils_im_engadin" to="taz_camping_summer_maloja" count="11"/>
+        
+        <tazRelation from="taz_St_Moritz" to="taz_camping_summer_maloja" count="14"/>
+        <tazRelation from="taz_Bregaglia" to="taz_camping_summer_maloja" count="20"/>
+        <tazRelation from="taz_Silvaplana" to="taz_camping_summer_maloja" count="14"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_camping_summer_maloja" count="16"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_camping_summer_maloja" count="14"/>
+
+        <tazRelation from="taz_Cable_Car_Albigna" to="taz_camping_summer_mulina" count="55"/>
+        <tazRelation from="taz_Bregaglia_Summer" to="taz_camping_summer_mulina" count="22"/>
+        <tazRelation from="taz_Sils_Engadin_Summer" to="taz_camping_summer_mulina" count="11"/>
+        <tazRelation from="taz_Silvaplana_Summer" to="taz_camping_summer_mulina" count="11"/>
+        <tazRelation from="taz_St_Moritz_Summer" to="taz_camping_summer_mulina" count="11"/>
+        <tazRelation from="taz_ski_corviglia_piz_nair_st_moritz" to="taz_camping_summer_mulina" count="11"/>
+        <tazRelation from="taz_ski_corvatsch_sils_im_engadin" to="taz_camping_summer_mulina" count="11"/>
+
+        <tazRelation from="taz_St_Moritz" to="taz_camping_summer_mulina" count="16"/>
+        <tazRelation from="taz_Bregaglia" to="taz_camping_summer_mulina" count="25"/>
+        <tazRelation from="taz_Silvaplana" to="taz_camping_summer_mulina" count="15"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_camping_summer_mulina" count="15"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_camping_summer_mulina" count="15"/>
+
+        <tazRelation from="taz_Cable_Car_Albigna" to="taz_camping_summer_silvaplana" count="27"/>
+        <tazRelation from="taz_Bregaglia_Summer" to="taz_camping_summer_silvaplana" count="27"/>
+        <tazRelation from="taz_Sils_Engadin_Summer" to="taz_camping_summer_silvaplana" count="27"/>
+        <tazRelation from="taz_Silvaplana_Summer" to="taz_camping_summer_silvaplana" count="75"/>
+        <tazRelation from="taz_St_Moritz_Summer" to="taz_camping_summer_silvaplana" count="27"/>
+        <tazRelation from="taz_ski_corviglia_piz_nair_st_moritz" to="taz_camping_summer_silvaplana" count="27"/>
+        <tazRelation from="taz_ski_corvatsch_silvaplana" to="taz_camping_summer_silvaplana" count="27"/>
+        
+        <tazRelation from="taz_St_Moritz" to="taz_camping_summer_silvaplana" count="37"/>
+        <tazRelation from="taz_Bregaglia" to="taz_camping_summer_silvaplana" count="37"/>
+        <tazRelation from="taz_Silvaplana" to="taz_camping_summer_silvaplana" count="90"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_camping_summer_silvaplana" count="40"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_camping_summer_silvaplana" count="37"/>
+
+        <tazRelation from="taz_Cable_Car_Albigna" to="taz_camping_summer_st_moritz" count="14"/>
+        <tazRelation from="taz_Bregaglia_Summer" to="taz_camping_summer_st_moritz" count="14"/>
+        <tazRelation from="taz_Sils_Engadin_Summer" to="taz_camping_summer_st_moritz" count="14"/>
+        <tazRelation from="taz_Silvaplana_Summer" to="taz_camping_summer_st_moritz" count="16"/>
+        <tazRelation from="taz_St_Moritz_Summer" to="taz_camping_summer_st_moritz" count="35"/>
+        <tazRelation from="taz_ski_corviglia_piz_nair_st_moritz" to="taz_camping_summer_st_moritz" count="30"/>
+        <tazRelation from="taz_ski_corvatsch_silvaplana" to="taz_camping_summer_st_moritz" count="14"/>
+
+        <tazRelation from="taz_St_Moritz" to="taz_camping_summer_st_moritz" count="30"/>
+        <tazRelation from="taz_Bregaglia" to="taz_camping_summer_st_moritz" count="19"/>
+        <tazRelation from="taz_Silvaplana" to="taz_camping_summer_st_moritz" count="26"/>
+        <tazRelation from="taz_Sils_Engadin" to="taz_camping_summer_st_moritz" count="19"/>
+        <tazRelation from="taz_St_Moritz_Sink" to="taz_camping_summer_st_moritz" count="19"/>
+    </interval>
+</data>
